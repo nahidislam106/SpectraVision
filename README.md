@@ -8,7 +8,7 @@
 
 A React Native + Expo app that streams live readings from the **AS7265X** (18-channel) and **AS7341** (10-channel) spectral sensors via **Firebase Realtime Database**, rendering them as interactive, dark-mode science-instrument charts.
 
-[Live data path: `https://spectral-a59ca-default-rtdb.firebaseio.com/spectral_readings`] · [Expo SDK 54] · [TypeScript]
+
 
 ---
 
