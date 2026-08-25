@@ -103,7 +103,7 @@ Each push node under `/spectral_readings` contains:
 
 ## Configuration
 
-Firebase project: `spectral-a59ca` · Realtime Database: `https://spectral-a59ca-default-rtdb.firebaseio.com`
+Firebase project: `spectral-a59ca` 
 
 ## Status
 
